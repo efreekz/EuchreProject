@@ -1,0 +1,6 @@
+module.exports.addGames = require('./addGames.controller')
+module.exports.getAllGames = require('./getAllGames.controller')
+module.exports.getPrivateGameAdmin = require('./getPrivateGameAdmin.controller.js')
+module.exports.getAllGamesAdmin = require('./getAllGamesAdmin.controller.js')
+module.exports.deleteGame = require('./deleteGame.controller.js')
+module.exports.updateGame = require('./updateGame.controller.js')
