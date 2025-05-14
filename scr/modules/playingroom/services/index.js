@@ -1,0 +1,7 @@
+module.exports.createRoomandUPdate = require('./createRoomAndUpdate.service')
+module.exports.createPrivateRoom = require('./createPrivateRoom.service.js')
+module.exports.checkRoomStatus = require('./checkRoomStatus.service.js')
+module.exports.getAllRoomDetails = require('./getAllRoomDetails.service.js')
+module.exports.joinPrivateRoom = require('./joinPrivateRoom.service.js')
+module.exports.getAllPrivateRoom = require('./getAllPrivateRoom.service.js')
+module.exports.getMatchmakingHistory = require('./getMatchmakingHistory.service.js')

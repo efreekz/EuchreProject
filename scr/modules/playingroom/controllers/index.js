@@ -1,0 +1,7 @@
+module.exports.createRoomandUpdate = require('./createRoomAndUpdate.controller')
+module.exports.checkRoomStatus = require('./checkRoomStatus.controller.js')
+module.exports.getAllRoomDetails = require('./getAllRoomDetails.controller.js')
+module.exports.createPrivateRoom = require('./createPrivateRoom.controller.js')
+module.exports.joinPrivateRoom = require('./joinPrivateRoom.controller.js')
+module.exports.getAllPrivateRoom = require('./getAllPrivateRoom.controller.js')
+module.exports.getMatchmakingHistory = require('./getMatchmakingHistory.controller.js')

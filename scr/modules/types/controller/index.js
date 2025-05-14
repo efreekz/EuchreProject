@@ -1,0 +1,1 @@
+module.exports.addType = require('./addType.controller')

@@ -1,0 +1,5 @@
+module.exports.createTournament = require('./createTournament.service.js')
+module.exports.getAllTournaments = require('./getAllTournaments.service.js')
+module.exports.getAllTournamentsAdmin = require('./getAllTournamentsAdmin.service.js')
+module.exports.joinTournament = require('./joinTournament.service.js')
+module.exports.joinTournamentRoom = require('./joinTournamentRoom.service.js')

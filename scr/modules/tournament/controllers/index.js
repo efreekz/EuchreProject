@@ -1,0 +1,5 @@
+module.exports.createTournament = require('./createTournament.controller.js')
+module.exports.getAllTournaments = require('./getAllTournaments.controller.js')
+module.exports.getAllTournamentsAdmin = require('./getAllTournamentsAdmin.controller.js')
+module.exports.joinTournament = require('./joinTournament.controller.js')
+module.exports.joinTournamentRoom = require('./joinTournamentRoom.controller.js')
