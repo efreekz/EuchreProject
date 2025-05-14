@@ -1,0 +1,5 @@
+module.exports.addBalanceInWallet = require('./addBalance.services')
+module.exports.getWalletBalanceByUserId = require('./getWalletBalance.services')
+module.exports.addBalanceFromAdmin = require('./addBalanceFromAdmin.services.js')
+module.exports.getAdminWallet = require('./getAdminWallet.services.js')
+module.exports.addBalanceInAdminWallet = require('./addBalanceInAdminWallet.services.js')
